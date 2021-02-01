@@ -1,5 +1,6 @@
 /* OVERWRITES BOOTSTRAP IN ALL COMPONENTS */
 
+/* making the app component take 100% from the viewport's height, making a flex-container and making its children vertically centered */
 .App {
     min-height: 100vh;
     display: flex;
